@@ -1,0 +1,18 @@
+//Colors
+$color-primary: #58e1c1;
+$color-secondary: #51ddfc;
+$color-primary-lighten: lighten($color-primary, 15%);
+$color-error: #e4757a;
+$color-info: #927bc1;
+$color-success: #63cc82;
+$color-warning: #fd7856;
+$color-white: #fff;
+$color-base-text: #777;
+
+//Text
+$font-stack-primary: 'Lato', sans-serif;
+$font-weight-heavy: 700;
+$font-weight-light: 300;
+
+//Break points
+$break-m: 768px;
